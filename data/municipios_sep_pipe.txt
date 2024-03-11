@@ -1,0 +1,6 @@
+id_mun|nom_mun
+8|La Magdalena Contreras
+9|Milpa Alta
+4|Cuajimalpa de Morelos
+13|Xochimilco
+12|Tlalpan

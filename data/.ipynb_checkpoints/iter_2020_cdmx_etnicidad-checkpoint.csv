@@ -1,0 +1,507 @@
+﻿ENTIDAD,NOM_ENT,MUN,NOM_MUN,LOC,NOM_LOC,PNACENT,PNACENT_F,PNACENT_M,PNACOE,PNACOE_F,PNACOE_M,PRES2015,PRES2015_F,PRES2015_M,PRESOE15,PRESOE15_F,PRESOE15_M
+9,Ciudad de MÃ©xico,2,Azcapotzalco,1,Azcapotzalco,349428,181067,168361,79365,44454,34911,388572,205428,183144,20545,10573,9972
+9,Ciudad de MÃ©xico,3,CoyoacÃ¡n,1,CoyoacÃ¡n,495288,257509,237779,110671,63258,47413,563641,299642,263999,20232,10652,9580
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,153070,78261,74809,28151,16504,11647,165188,86355,78833,6992,4066,2926
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,10,Cruz Blanca,499,239,260,226,121,105,601,290,311,54,32,22
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,20,San Lorenzo Acopilco,22420,11442,10978,3528,1922,1606,23505,12150,11355,559,292,267
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,50,La Venta,428,233,195,55,34,21,437,244,193,15,8,7
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,54,Puerto las Cruces (Monte las Cruces),1032,532,500,187,108,79,1079,563,516,28,17,11
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,55,Teopazulco,71,35,36,9,5,4,77,39,38,0,0,0
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,56,Valle de las Monjas,100,42,58,6,4,2,99,43,56,0,0,0
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,57,ProlongaciÃ³n ConstituciÃ³n,115,55,60,16,10,6,120,62,58,0,0,0
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,58,Paraje RÃ­o Borracho,72,39,33,8,5,3,76,42,34,0,0,0
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,59,El Zarco,22,10,12,2,2,0,20,11,9,0,0,0
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,62,Los Campesinos [Rancho],22,11,11,7,3,4,23,10,13,0,0,0
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,63,Santa Rosa,643,325,318,174,88,86,754,371,383,3,2,1
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,66,Santa Laura [Rancho],34,12,22,2,1,1,37,13,24,1,0,1
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,70,Punta Galicia,322,160,162,114,46,68,354,170,184,48,17,31
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,73,Los Aguacates,234,114,120,278,147,131,283,137,146,174,92,82
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,74,Punta Ahuatenco,110,43,67,63,31,32,142,63,79,15,4,11
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,77,Coatzehuaya,24,12,12,4,1,3,24,11,13,0,0,0
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,9998,Localidades de una vivienda,10,6,4,12,7,5,15,8,7,3,2,1
+9,Ciudad de MÃ©xico,4,Cuajimalpa de Morelos,9999,Localidades de dos viviendas,21,9,12,0,0,0,21,9,12,0,0,0
+9,Ciudad de MÃ©xico,5,Gustavo A. Madero,1,Gustavo A. Madero,949110,486567,462543,217362,119942,97420,1059751,557164,502587,39009,19957,19052
+9,Ciudad de MÃ©xico,6,Iztacalco,1,Iztacalco,334720,173147,161573,67280,37862,29418,367615,193766,173849,15108,7866,7242
+9,Ciudad de MÃ©xico,7,Iztapalapa,1,Iztapalapa,1469086,748603,720483,358708,195863,162845,1673257,872181,801076,42706,22023,20683
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,1,La Magdalena Contreras,208294,106935,101359,36111,20896,15215,228115,119437,108678,4399,2507,1892
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,71,Ejido de San NicolÃ¡s Totolapan,13,6,7,2,1,1,13,7,6,1,0,1
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,75,Segundo Dinamo,9,1,8,1,0,1,10,1,9,0,0,0
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,83,El Gavillero,355,180,175,97,54,43,412,211,201,3,1,2
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,85,El Ocotal (La Carbonera),23,11,12,0,0,0,23,11,12,0,0,0
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,88,Totolapan,226,110,116,108,54,54,294,147,147,16,10,6
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,101,Ocotenco (La Loma Cazulco),15,4,11,0,0,0,15,4,11,0,0,0
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,104,Rancho Viejo,47,20,27,16,8,8,59,29,30,0,0,0
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,106,ProlongaciÃ³n ErmitaÃ±o,32,14,18,5,3,2,33,15,18,0,0,0
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,108,RincÃ³n Eslava,44,18,26,7,3,4,46,19,27,0,0,0
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,111,Rancho Chichicaspa,28,12,16,1,0,1,26,11,15,0,0,0
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,112,Paraje Chichicaspa,92,39,53,27,12,15,113,49,64,2,1,1
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,9998,Localidades de una vivienda,17,5,12,2,1,1,16,5,11,0,0,0
+9,Ciudad de MÃ©xico,8,La Magdalena Contreras,9999,Localidades de dos viviendas,20,7,13,3,1,2,22,8,14,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,1,Villa Milpa Alta,16014,8171,7843,2161,1153,1008,16867,8692,8175,218,115,103
+9,Ciudad de MÃ©xico,9,Milpa Alta,11,San Antonio TecÃ³mitl,22979,11747,11232,4724,2508,2216,25446,13141,12305,503,259,244
+9,Ciudad de MÃ©xico,9,Milpa Alta,15,San BartolomÃ© Xicomulco,4204,2193,2011,718,382,336,4551,2379,2172,83,44,39
+9,Ciudad de MÃ©xico,9,Milpa Alta,17,San Francisco Tecoxpa,11824,6021,5803,2068,1081,987,12637,6500,6137,305,158,147
+9,Ciudad de MÃ©xico,9,Milpa Alta,24,San Pablo Oztotepec,15680,8113,7567,2008,1078,930,16233,8449,7784,219,101,118
+9,Ciudad de MÃ©xico,9,Milpa Alta,29,San Pedro Atocpan,8231,4163,4068,977,531,446,8434,4300,4134,141,80,61
+9,Ciudad de MÃ©xico,9,Milpa Alta,33,San Salvador Cuauhtenco,14062,7150,6912,2742,1491,1251,15361,7918,7443,313,173,140
+9,Ciudad de MÃ©xico,9,Milpa Alta,36,Santa Ana Tlacotenco,10759,5604,5155,941,516,425,10800,5631,5169,156,72,84
+9,Ciudad de MÃ©xico,9,Milpa Alta,37,Cruztitla,801,396,405,318,161,157,1023,509,514,21,13,8
+9,Ciudad de MÃ©xico,9,Milpa Alta,45,Los Pinos (Totulan),57,26,31,0,0,0,55,25,30,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,46,Xoctonco,305,146,159,89,47,42,361,179,182,3,1,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,50,CozcatlÃ¡n,26,17,9,1,0,1,25,16,9,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,52,La Herradura (SÃ©ptima Curva),84,39,45,18,12,6,90,41,49,3,2,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,54,Zangahco,51,25,26,21,9,12,66,31,35,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,56,Hueycotzingo,105,57,48,5,2,3,104,56,48,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,66,Cuauhtec (El Mirador Santa Ana Tlacotenco),11,4,7,5,5,0,11,6,5,4,3,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,67,La Mora,149,68,81,33,18,15,167,79,88,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,68,Metenco,329,165,164,135,69,66,428,213,215,5,2,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,72,Tamasquititla,7,3,4,4,2,2,10,4,6,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,74,San AgustÃ­n Xolco,29,14,15,9,4,5,37,17,20,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,77,San Marcos (Tezocotitla),161,87,74,34,19,15,177,99,78,4,2,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,81,Cuyucalco,104,52,52,16,6,10,110,52,58,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,82,Iztahuaca,74,39,35,10,6,4,78,42,36,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,83,Tzotzomaco,21,13,8,4,1,3,20,11,9,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,84,Tlatepexco,99,57,42,57,33,24,132,78,54,5,2,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,88,San Paocotitla,164,72,92,32,12,20,179,74,105,5,3,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,90,Tlacopac,106,56,50,4,1,3,100,50,50,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,92,Tecolotzitzatzian (Tiapa),15,6,9,0,0,0,14,6,8,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,95,Tepetlapa,223,112,111,2,0,2,204,105,99,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,96,Tequianquiztunco,15,9,6,3,1,2,15,9,6,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,98,Tetexipezco,29,14,15,6,2,4,30,14,16,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,99,Tetlicuili (El Encinal),9,3,6,6,2,4,14,5,9,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,101,Texcalatlautenco,37,20,17,3,1,2,39,21,18,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,103,Tezompa,209,113,96,17,8,9,196,105,91,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,104,Teziuhtepec,102,48,54,36,17,19,128,61,67,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,105,Tetzumpa,17,8,9,1,1,0,15,8,7,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,109,Tlaxala,67,31,36,2,0,2,67,30,37,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,112,Tetepanco,119,47,72,34,20,14,140,63,77,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,113,Copexalco,47,26,21,21,12,9,63,35,28,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,115,San JosÃ©,218,106,112,94,47,47,287,140,147,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,116,Hueytepetl (Bugambilias),192,92,100,57,34,23,230,116,114,7,4,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,117,Ocoximalipa,123,63,60,21,9,12,133,66,67,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,120,Corralixpa,190,91,99,55,27,28,231,112,119,4,3,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,126,Coyocalli,41,22,19,3,2,1,39,20,19,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,129,Tlapalan,23,11,12,13,6,7,26,12,14,5,2,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,131,Texalco,117,59,58,40,20,20,149,74,75,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,134,Queapilco,42,19,23,17,9,8,54,27,27,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,138,Barranca Seca (Pozo Ocho),213,110,103,52,30,22,233,122,111,4,3,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,139,Teatlaco,105,59,46,60,35,25,152,85,67,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,140,Tlaloxtoc (Ejidos de Tecoxpa),11,8,3,8,3,5,18,10,8,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,141,Tezquizco,9,3,6,2,1,1,10,3,7,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,142,Atuzanco,20,10,10,0,0,0,19,9,10,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,147,El Potrero,18,11,7,5,4,1,17,11,6,4,2,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,151,Miquixpa,40,22,18,10,5,5,43,23,20,3,2,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,152,San Lorenzo Tlacoyucan,3901,1982,1919,380,201,179,3915,1992,1923,52,29,23
+9,Ciudad de MÃ©xico,9,Milpa Alta,154,Rinconada del Teoca,111,58,53,23,9,14,113,55,58,6,3,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,155,Tepexomulco,96,41,55,27,17,10,116,55,61,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,156,Temoclaluca,13,4,9,19,7,12,27,10,17,3,1,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,158,Malacaxco,258,120,138,56,25,31,273,127,146,8,5,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,159,Cuatlixco,13,8,5,0,0,0,13,8,5,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,161,Coametzu,211,101,110,87,45,42,268,131,137,7,5,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,163,Cuauhtunco,193,92,101,67,32,35,240,115,125,3,2,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,166,La Era,7,3,4,0,0,0,6,2,4,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,167,Tepetenco,244,134,110,59,26,33,253,132,121,30,18,12
+9,Ciudad de MÃ©xico,9,Milpa Alta,168,San Isidro Cuatepec,747,392,355,316,165,151,938,489,449,41,26,15
+9,Ciudad de MÃ©xico,9,Milpa Alta,169,Xaluis,174,80,94,17,9,8,169,79,90,5,1,4
+9,Ciudad de MÃ©xico,9,Milpa Alta,171,Tepetipac,180,98,82,97,54,43,254,139,115,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,172,Tlatlalahuaya,39,21,18,9,5,4,41,23,18,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,173,Texunco (Camino Real a Tlaltenami),52,30,22,13,7,6,58,33,25,3,2,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,174,Mecalco (Camino al Mirador),218,114,104,13,4,9,215,111,104,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,176,Zacatonco,346,172,174,13,5,8,327,160,167,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,178,Xali,76,36,40,8,4,4,78,39,39,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,185,Zacazontlipac,300,154,146,61,27,34,338,169,169,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,187,Santa Catarina (Piedra Blanca),140,71,69,37,16,21,158,82,76,15,4,11
+9,Ciudad de MÃ©xico,9,Milpa Alta,188,Cuauhtetec,177,86,91,93,48,45,254,127,127,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,189,Huitlalpa,49,29,20,10,6,4,52,30,22,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,191,Texcolipan,10,6,4,5,2,3,14,8,6,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,192,Tetzmititla,29,16,13,4,1,3,30,16,14,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,195,Tlaxiomulco,114,60,54,29,16,13,133,71,62,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,198,Tecoloxtitla,136,65,71,21,8,13,143,65,78,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,199,Tapalaco (Amacapultitla),73,35,38,8,3,5,74,35,39,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,200,Teacalco,24,13,11,1,1,0,24,14,10,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,202,Cuauhzontlipan,82,39,43,21,8,13,93,44,49,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,203,Huepaltepec,56,28,28,18,10,8,66,33,33,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,204,MecatlÃ¡n (Rancho el Refugio),47,24,23,14,5,9,47,22,25,8,4,4
+9,Ciudad de MÃ©xico,9,Milpa Alta,205,Tecupilco (KilÃ³metro 17.5),115,73,42,9,6,3,105,67,38,9,5,4
+9,Ciudad de MÃ©xico,9,Milpa Alta,206,Xaxalpa,99,49,50,42,22,20,128,63,65,5,2,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,207,Xaltepetitla,37,17,20,24,11,13,55,25,30,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,208,Tetecolok,63,31,32,25,16,9,74,42,32,3,2,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,210,Santa Rosa,138,68,70,47,25,22,167,85,82,7,3,4
+9,Ciudad de MÃ©xico,9,Milpa Alta,211,Olla de Piedra,101,48,53,25,14,11,113,56,57,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,213,El Zapote (Techultepec),62,30,32,4,2,2,63,30,33,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,214,Maxulco (Barrio Cruztitla),177,91,86,43,23,20,202,100,102,2,2,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,215,Tecoxpa (El Pirul),6,3,3,5,3,2,10,6,4,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,216,Santa Martha Cosalan,83,44,39,15,8,7,86,44,42,3,2,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,217,Zacuaztitla,272,128,144,139,69,70,358,171,187,7,4,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,219,Omaxa,138,72,66,53,27,26,175,88,87,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,222,Ahuatitla (Ixmatunco),47,28,19,0,0,0,44,26,18,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,223,Texacazintla (Xacalixpa),86,45,41,25,11,14,101,50,51,4,2,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,224,Chichilesca,143,73,70,64,33,31,177,87,90,9,6,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,226,Calle Capulines,11,3,8,2,2,0,13,5,8,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,227,Temalacatl,43,21,22,3,2,1,40,19,21,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,228,Temoayan,10,4,6,2,0,2,12,4,8,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,229,ProlongaciÃ³n Xolotl,20,7,13,0,0,0,13,6,7,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,233,Las Cruces Parte Alta (Tehuepanco),157,79,78,9,3,6,154,78,76,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,234,Cuacualipa,31,15,16,5,2,3,34,17,17,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,235,Tehuistitla,78,39,39,10,6,4,81,42,39,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,236,Cuaxaltepec,10,5,5,0,0,0,10,5,5,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,239,Tecpallo,60,31,29,10,6,4,66,35,31,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,241,Loma Bonita,52,29,23,12,6,6,63,34,29,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,242,Cuacuahotlipa,256,124,132,44,24,20,281,139,142,2,2,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,243,Nacatulatlaxco,20,10,10,0,0,0,20,10,10,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,244,Tlacoxpa (Teshutla),21,10,11,10,3,7,28,12,16,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,245,Citlalcuac (Rancho el ParaÃ­so Perdido),95,45,50,19,8,11,105,50,55,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,246,Atoctenco (ProlongaciÃ³n NiÃ±os HÃ©roes),100,44,56,40,17,23,131,60,71,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,248,Paraje Huicalco,82,40,42,29,15,14,105,50,55,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,249,Los Aguilar,9,7,2,2,0,2,11,7,4,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,250,Tetexaloca,21,12,9,4,2,2,24,13,11,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,251,ProlongaciÃ³n Justo Sierra,44,27,17,4,3,1,43,26,17,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,252,Acatlahuco,84,40,44,11,7,4,90,45,45,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,253,Xalmoyo,69,35,34,26,14,12,79,43,36,7,3,4
+9,Ciudad de MÃ©xico,9,Milpa Alta,254,Oluca,270,117,153,97,58,39,344,165,179,4,1,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,256,Tlalcoxtepec,153,63,90,66,35,31,199,89,110,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,257,Camino Viejo a Santa Cruz,63,36,27,15,7,8,68,36,32,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,264,Panuca (Cuatexoxoco),47,24,23,2,0,2,43,20,23,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,265,Tlaltepec (Tlacoxtepec),96,56,40,11,4,7,98,52,46,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,266,Chimeo (Las Palmas),77,30,47,69,40,29,120,56,64,11,6,5
+9,Ciudad de MÃ©xico,9,Milpa Alta,268,Moxala,129,57,72,32,17,15,143,66,77,4,2,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,269,El Cerrito,175,80,95,59,31,28,206,97,109,4,2,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,271,San Miguel (Tecoxomayehualtitla),22,11,11,12,6,6,31,15,16,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,274,Tlalmanco (ProlongaciÃ³n Benito JuÃ¡rez),12,4,8,0,0,0,10,3,7,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,275,Tlalcocomoya,33,18,15,5,2,3,34,18,16,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,276,Paraje Tatazquiopa,26,13,13,1,1,0,24,13,11,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,277,Atoctenco,519,270,249,19,7,12,504,260,244,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,278,Tecamac,42,24,18,21,11,10,56,33,23,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,280,Teutlalpa,6,4,2,4,3,1,8,5,3,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,281,Zihuantemohuayan,23,15,8,4,1,3,26,15,11,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,282,Las Abejas,19,11,8,1,0,1,16,8,8,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,283,Tlatzala,35,18,17,15,9,6,45,25,20,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,284,Tetzompa,49,27,22,17,7,10,60,29,31,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,285,Tuzanco (La Joya),244,118,126,107,61,46,314,157,157,6,4,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,288,Tlacopanco,49,20,29,10,6,4,48,23,25,6,2,4
+9,Ciudad de MÃ©xico,9,Milpa Alta,289,Pixucaltitla,60,28,32,12,7,5,60,28,32,8,4,4
+9,Ciudad de MÃ©xico,9,Milpa Alta,291,KilÃ³metro 24,21,16,5,0,0,0,20,16,4,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,292,Joyas Parte Alta,401,204,197,184,82,102,522,253,269,13,7,6
+9,Ciudad de MÃ©xico,9,Milpa Alta,297,San Antonio Cuilotepec,261,135,126,129,64,65,349,178,171,15,8,7
+9,Ciudad de MÃ©xico,9,Milpa Alta,300,San NicolÃ¡s Tetelco,3368,1690,1678,705,364,341,3680,1876,1804,99,50,49
+9,Ciudad de MÃ©xico,9,Milpa Alta,301,El Tejocote,56,28,28,30,14,16,72,33,39,10,6,4
+9,Ciudad de MÃ©xico,9,Milpa Alta,303,Arboledas,128,57,71,53,28,25,159,73,86,12,6,6
+9,Ciudad de MÃ©xico,9,Milpa Alta,304,Emiliano Zapata (Camino al Cerro),39,20,19,5,3,2,37,19,18,5,3,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,305,Corraltitla,123,53,70,43,22,21,149,70,79,3,2,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,306,Tepanoco,32,17,15,0,0,0,33,18,15,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,310,Santa Martha Xolco,42,18,24,13,6,7,48,21,27,2,0,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,312,Tepetitla (Villa Hermosa),24,10,14,3,2,1,27,12,15,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,313,Totoxhpa (Cerrada CuliacÃ¡n),14,5,9,3,1,2,14,5,9,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,314,Belizario DomÃ­nguez,133,67,66,49,23,26,169,83,86,2,2,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,315,Nuchtla,435,218,217,77,39,38,480,243,237,7,3,4
+9,Ciudad de MÃ©xico,9,Milpa Alta,316,Tehuizco,186,101,85,114,58,56,271,143,128,3,2,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,317,Axayatipac,197,107,90,33,16,17,204,111,93,4,1,3
+9,Ciudad de MÃ©xico,9,Milpa Alta,318,Ayotepec,76,36,40,27,12,15,100,47,53,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,319,Ochpantenco,55,36,19,11,4,7,59,35,24,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,321,La Virgen,12,4,8,1,1,0,11,5,6,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,322,Matlahuacaloca,212,113,99,39,24,15,232,125,107,6,4,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,323,Tula (Huixtotlazintla),116,57,59,13,7,6,122,60,62,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,326,Tlatlapantunco,17,10,7,0,0,0,14,8,6,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,328,San AgustÃ­n,63,34,29,9,4,5,68,34,34,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,332,Los Angeles,24,14,10,5,3,2,17,8,9,7,5,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,333,Tezontlipac (San Lorenzo Tlacoyucan),24,11,13,7,3,4,30,14,16,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,337,Tlalzonco,29,13,16,12,5,7,36,17,19,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,338,Temazcaltitla,60,26,34,11,7,4,66,31,35,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,340,Chautonco,120,63,57,13,5,8,123,62,61,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,341,Texotitla,12,7,5,8,4,4,19,11,8,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,342,Coatepec,93,52,41,28,14,14,114,63,51,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,344,Ocotitla (Barrio de Santa Cruz),63,29,34,11,6,5,70,34,36,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,345,Teuhtli,39,22,17,7,2,5,41,21,20,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,347,Xochiatlaco,17,10,7,4,2,2,18,10,8,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,348,Huacaltunco,65,36,29,0,0,0,62,34,28,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,351,Tlahuiztpa,120,57,63,9,6,3,116,55,61,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,352,Zacacali,64,29,35,12,5,7,65,28,37,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,354,Camino Viejo a Tlaltenamic,68,31,37,19,8,11,84,37,47,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,355,Joyas del Pedregal,45,27,18,6,0,6,46,24,22,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,356,Los Romero,20,11,9,0,0,0,20,11,9,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,358,Don Diegoco,20,9,11,9,5,4,26,12,14,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,359,Apilintitla,47,22,25,4,3,1,50,24,26,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,360,Atlahuitonca,86,47,39,12,6,6,91,48,43,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,361,Xilozuchitl,57,30,27,13,11,2,58,33,25,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,362,Tenco,13,8,5,0,0,0,11,6,5,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,363,Xonacatepec,19,12,7,11,6,5,29,18,11,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,364,Xicalhuacan,36,18,18,7,2,5,39,18,21,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,365,Ixotitla,25,11,14,12,6,6,36,17,19,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,366,Xaltenco,14,7,7,0,0,0,13,6,7,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,367,Tlaquexpa,21,11,10,11,8,3,27,16,11,2,2,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,369,Encinos,8,4,4,2,2,0,9,6,3,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,370,Tehuehuec,13,3,10,5,2,3,17,5,12,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,371,Tlalaxco,74,38,36,31,13,18,93,47,46,3,1,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,372,Apetatita,66,34,32,23,12,11,81,38,43,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,373,Texali,50,27,23,16,6,10,57,29,28,4,3,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,374,Xilutepec,44,19,25,2,0,2,46,19,27,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,380,Texico,19,8,11,2,2,0,19,9,10,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,384,Acopilipan,25,8,17,7,5,2,28,10,18,1,1,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,385,Hueyitlatile,9,5,4,0,0,0,9,5,4,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,388,La PurÃ­sima,73,45,28,4,0,4,69,40,29,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,389,Atempa,29,9,20,4,2,2,30,10,20,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,390,Tlacuitlaya,14,7,7,3,2,1,17,9,8,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,391,Cruz Tlaltempa,18,10,8,13,8,5,23,12,11,7,5,2
+9,Ciudad de MÃ©xico,9,Milpa Alta,392,Ahuatitla (El Tecorral),68,34,34,15,6,9,77,38,39,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,395,Cuapetzayuca,14,4,10,3,1,2,14,5,9,1,0,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,403,Memeyuca,3,2,1,3,1,2,6,3,3,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,407,Papalocahuitl,29,15,14,8,3,5,32,17,15,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,410,Tlaltelpampa,8,5,3,2,1,1,10,6,4,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,413,Tepecuescotitla (San Antonio),25,15,10,3,0,3,26,14,12,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,414,La Lupita Tlacotenco,9,4,5,2,1,1,11,5,6,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,415,Cristo Rey (Emiliano Zapata),118,64,54,14,6,8,125,66,59,0,0,0
+9,Ciudad de MÃ©xico,9,Milpa Alta,9998,Localidades de una vivienda,43,12,31,8,4,4,46,13,33,2,1,1
+9,Ciudad de MÃ©xico,9,Milpa Alta,9999,Localidades de dos viviendas,71,35,36,25,12,13,87,43,44,2,1,1
+9,Ciudad de MÃ©xico,10,Ãlvaro ObregÃ³n,1,Ãlvaro ObregÃ³n,624904,321685,303219,123666,70903,52763,694390,365015,329375,20296,11114,9182
+9,Ciudad de MÃ©xico,10,Ãlvaro ObregÃ³n,213,Ojo de Agua,58,27,31,5,3,2,55,27,28,2,1,1
+9,Ciudad de MÃ©xico,10,Ãlvaro ObregÃ³n,214,Camino a la Bandera,8,2,6,4,3,1,12,5,7,0,0,0
+9,Ciudad de MÃ©xico,10,Ãlvaro ObregÃ³n,215,Tiximaloya,2,0,2,1,1,0,2,1,1,1,0,1
+9,Ciudad de MÃ©xico,10,Ãlvaro ObregÃ³n,216,El ErmitaÃ±o (Paraje el Chipil),45,23,22,2,1,1,38,20,18,0,0,0
+9,Ciudad de MÃ©xico,10,Ãlvaro ObregÃ³n,217,Texcalatlaco,2,1,1,3,1,2,3,1,2,2,1,1
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,1,TlÃ¡huac,268886,137154,131732,53787,29555,24232,296897,153919,142978,7096,3659,3437
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,11,San AndrÃ©s Mixquic,12413,6278,6135,1463,789,674,12784,6522,6262,220,126,94
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,21,San Juan Ixtayopan,22631,11407,11224,5321,2814,2507,25554,13020,12534,630,326,304
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,24,San NicolÃ¡s Tetelco,4061,2129,1932,852,456,396,4464,2339,2125,121,74,47
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,26,Santa Catarina Yecahuitzotl,8984,4519,4465,2620,1362,1258,10416,5298,5118,457,231,226
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,69,San Miguel,189,88,101,31,19,12,200,98,102,4,2,2
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,71,Tabla los Pozos,223,102,121,75,40,35,266,124,142,13,7,6
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,72,Mesita del CapulÃ­n,70,31,39,49,22,27,101,47,54,11,5,6
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,76,Ojo de Agua,96,47,49,22,12,10,102,50,52,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,81,San Miguel (Chinampas),58,27,31,7,4,3,60,29,31,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,86,Xila,83,42,41,20,12,8,89,46,43,1,0,1
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,87,Axolocalco (ProlongaciÃ³n Santa Cruz),39,19,20,51,25,26,64,32,32,21,10,11
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,89,El Tetecon (El Solitario),13,9,4,3,2,1,16,11,5,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,94,Chinampa San Juan,15,9,6,3,1,2,16,9,7,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,103,Paraje Xometitla,118,62,56,27,13,14,126,67,59,8,4,4
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,104,San Ignacio de Loyola,597,310,287,256,138,118,764,401,363,27,14,13
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,108,Paraje Ayecac,68,30,38,13,4,9,76,33,43,2,0,2
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,110,La CiÃ©nega,2109,1091,1018,936,469,467,2658,1348,1310,89,47,42
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,111,Chinampas Tetelco,12,8,4,12,5,7,23,12,11,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,113,Lomas de XocotlÃ¡n,139,70,69,99,55,44,217,116,101,6,3,3
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,119,Tierra Blanca Parte Alta,119,62,57,59,29,30,162,81,81,2,0,2
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,126,Camino a Tlaltenco,59,26,33,12,4,8,69,29,40,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,128,ProlongaciÃ³n PeÃ±a Alta,75,46,29,26,16,10,93,55,38,1,1,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,129,Rancho los Pollitos,22,13,9,1,0,1,21,12,9,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,133,Ejido de San Juan Ixtayopan,15,8,7,5,2,3,20,10,10,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,134,Tabla Telocuatitla,23,9,14,11,6,5,24,11,13,6,2,4
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,136,El Pato,269,138,131,89,50,39,325,172,153,6,1,5
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,137,Ejido de TlÃ¡huac,61,25,36,16,8,8,69,32,37,1,0,1
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,140,El ParaÃ­so (Mecoxtla),748,370,378,687,333,354,1228,611,617,100,44,56
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,141,Colonia los 500 metros,261,108,153,143,76,67,349,160,189,34,15,19
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,142,AmpliaciÃ³n San Miguel,196,97,99,80,37,43,234,111,123,16,10,6
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,145,Xalpa (LÃ³pez Portillo),164,82,82,76,43,33,203,106,97,4,1,3
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,146,PiÃ±Ã³n,44,23,21,10,5,5,48,23,25,3,2,1
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,148,Puertantitla (Camino al Cerro),196,96,100,78,41,37,238,118,120,15,8,7
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,149,ProlongaciÃ³n el Rosario,105,55,50,47,26,21,128,70,58,10,4,6
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,150,La Nopalera,11,8,3,15,5,10,22,12,10,1,0,1
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,152,Bugambilias,4,0,4,9,3,6,7,1,6,6,2,4
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,153,Tezontitla,13,5,8,12,7,5,24,12,12,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,154,Xalatlayco,92,40,52,53,27,26,125,60,65,8,2,6
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,155,El CapulÃ­n,15,8,7,15,8,7,29,15,14,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,156,Las Palmas,9,5,4,4,2,2,12,6,6,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,159,Apoyautla (Cerro de Guadalupe),181,77,104,82,43,39,228,102,126,13,8,5
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,160,Las Nieves (Almoloya),82,36,46,42,20,22,110,52,58,6,2,4
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,161,La Cruz,20,8,12,11,4,7,25,9,16,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,162,Mixtlaplan,71,29,42,19,10,9,80,33,47,0,0,0
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,163,El Llano,49,29,20,21,12,9,64,38,26,5,3,2
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,9998,Localidades de una vivienda,11,6,5,3,1,2,12,6,6,1,0,1
+9,Ciudad de MÃ©xico,11,TlÃ¡huac,9999,Localidades de dos viviendas,35,20,15,11,5,6,38,20,18,2,1,1
+9,Ciudad de MÃ©xico,12,Tlalpan,1,Tlalpan,477622,246296,231326,115870,64604,51266,549173,289155,260018,19654,9733,9921
+9,Ciudad de MÃ©xico,12,Tlalpan,19,Parres (El Guarda),2737,1371,1366,458,231,227,2844,1433,1411,91,43,48
+9,Ciudad de MÃ©xico,12,Tlalpan,26,San Miguel Ajusco,30033,15188,14845,7034,3813,3221,34145,17519,16626,641,338,303
+9,Ciudad de MÃ©xico,12,Tlalpan,27,San Miguel Topilejo,33168,16784,16384,7762,4096,3666,37399,19135,18264,738,361,377
+9,Ciudad de MÃ©xico,12,Tlalpan,105,Apapaxtles,58,28,30,8,3,5,56,25,31,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,112,CaÃ±ada del Acueducto,129,64,65,32,14,18,146,71,75,2,0,2
+9,Ciudad de MÃ©xico,12,Tlalpan,114,Cuamino,6,5,1,4,1,3,10,6,4,1,0,1
+9,Ciudad de MÃ©xico,12,Tlalpan,124,HÃ©roes de 1910,433,192,241,130,70,60,521,244,277,11,6,5
+9,Ciudad de MÃ©xico,12,Tlalpan,128,Las RaÃ­ces,19,7,12,6,4,2,15,6,9,7,4,3
+9,Ciudad de MÃ©xico,12,Tlalpan,130,KilÃ³metro 36.5 (El Crucero),59,33,26,9,5,4,60,33,27,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,131,Las Maravillas (KilÃ³metro 37),36,21,15,9,4,5,42,24,18,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,132,KilÃ³metro 33.5,2,0,2,3,1,2,5,2,3,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,135,Lomas de Tepemecatl,2830,1401,1429,1217,620,597,3589,1787,1802,127,68,59
+9,Ciudad de MÃ©xico,12,Tlalpan,144,Piedra Larga,371,186,185,160,74,86,479,234,245,13,9,4
+9,Ciudad de MÃ©xico,12,Tlalpan,159,La Pedrera,53,27,26,38,17,21,90,43,47,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,161,El Pedregal,581,286,295,239,116,123,719,354,365,37,19,18
+9,Ciudad de MÃ©xico,12,Tlalpan,162,El SifÃ³n,92,48,44,11,5,6,90,46,44,1,1,0
+9,Ciudad de MÃ©xico,12,Tlalpan,168,Chalcuitongo (La AsunciÃ³n),656,319,337,389,201,188,873,421,452,81,49,32
+9,Ciudad de MÃ©xico,12,Tlalpan,175,Siete Ocotes,22,13,9,12,4,8,28,15,13,3,1,2
+9,Ciudad de MÃ©xico,12,Tlalpan,179,El Charco,517,260,257,239,122,117,669,333,336,33,17,16
+9,Ciudad de MÃ©xico,12,Tlalpan,187,Huinixco,169,86,83,102,51,51,247,128,119,2,1,1
+9,Ciudad de MÃ©xico,12,Tlalpan,198,La Troje,13,6,7,3,2,1,16,8,8,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,210,El Arenal,55,27,28,10,5,5,59,30,29,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,216,Cuanejaque,168,79,89,71,36,35,225,106,119,1,1,0
+9,Ciudad de MÃ©xico,12,Tlalpan,217,El Oyameyo,139,65,74,49,21,28,181,85,96,2,0,2
+9,Ciudad de MÃ©xico,12,Tlalpan,218,Parada Oyameyo (KilÃ³metro 31.5),86,41,45,26,14,12,108,52,56,1,0,1
+9,Ciudad de MÃ©xico,12,Tlalpan,220,La Campana,20,11,9,0,0,0,19,10,9,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,221,La Rufina,36,17,19,14,6,8,48,22,26,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,222,Nopaltitla,436,222,214,232,117,115,589,309,280,19,9,10
+9,Ciudad de MÃ©xico,12,Tlalpan,237,Xomulco (Oyamertonco),25,10,15,11,3,8,33,13,20,2,0,2
+9,Ciudad de MÃ©xico,12,Tlalpan,254,Barranquilla,8,6,2,10,3,7,17,8,9,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,269,Temaxcatitla (KilÃ³metro 32.2),44,13,31,21,12,9,59,22,37,4,2,2
+9,Ciudad de MÃ©xico,12,Tlalpan,272,Colonia Ocotla,74,37,37,47,22,25,108,51,57,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,275,KilÃ³metro 29.5,33,19,14,11,5,6,44,24,20,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,276,Lomas del CapulÃ­n (KilÃ³metro 30),337,172,165,192,99,93,475,242,233,13,8,5
+9,Ciudad de MÃ©xico,12,Tlalpan,277,Tlatepancaltitla (KilÃ³metro 30.5),32,19,13,23,14,9,50,32,18,3,0,3
+9,Ciudad de MÃ©xico,12,Tlalpan,280,Tlalalpuente,17,7,10,2,1,1,19,9,10,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,282,Ocotla Chico,617,308,309,322,176,146,865,452,413,12,5,7
+9,Ciudad de MÃ©xico,12,Tlalpan,283,Paraje Atonco,19,9,10,12,5,7,30,14,16,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,290,La Herradura,553,268,285,237,120,117,734,364,370,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,291,Carretera al Ajusco,38,20,18,11,5,6,45,22,23,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,295,Chahualixcantitla,14,9,5,2,0,2,16,9,7,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,296,Lomas de San JosÃ©,46,20,26,23,12,11,60,28,32,5,1,4
+9,Ciudad de MÃ©xico,12,Tlalpan,300,Colonia San Juan,156,68,88,63,31,32,204,91,113,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,301,Colonia Aguayoto,224,107,117,100,48,52,303,147,156,8,4,4
+9,Ciudad de MÃ©xico,12,Tlalpan,302,Los Encinos,63,23,40,33,18,15,85,35,50,4,4,0
+9,Ciudad de MÃ©xico,12,Tlalpan,310,Camino a la Venta,37,17,20,14,8,6,40,18,22,4,2,2
+9,Ciudad de MÃ©xico,12,Tlalpan,311,La Monera,13,5,8,2,1,1,15,6,9,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,317,El Tianguillo,4,2,2,1,0,1,4,2,2,1,0,1
+9,Ciudad de MÃ©xico,12,Tlalpan,319,Popotenco,13,7,6,7,4,3,18,10,8,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,325,Planta Abasolo,73,38,35,20,13,7,87,47,40,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,326,Cuauhtenco,9,6,3,1,0,1,10,6,4,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,328,Ejidos de San AndrÃ©s Totoltepec,272,129,143,111,60,51,348,169,179,14,7,7
+9,Ciudad de MÃ©xico,12,Tlalpan,333,ProlongaciÃ³n Acueducto,10,6,4,9,4,5,19,9,10,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,339,El Oyamel,7,4,3,0,0,0,7,4,3,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,342,Rancho Matamoros,6,3,3,4,1,3,10,4,6,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,346,Tepehuaxotla (ProlongaciÃ³n PirÃ¡mide),98,58,40,58,27,31,134,74,60,5,3,2
+9,Ciudad de MÃ©xico,12,Tlalpan,350,Los Tlapancos,91,39,52,17,8,9,100,46,54,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,351,Carretera al Ajusco II,106,52,54,22,13,9,116,58,58,3,2,1
+9,Ciudad de MÃ©xico,12,Tlalpan,354,Acazacatongo,58,29,29,28,15,13,82,43,39,2,0,2
+9,Ciudad de MÃ©xico,12,Tlalpan,355,Acueducto 1ra. SecciÃ³n,26,13,13,9,5,4,33,17,16,2,1,1
+9,Ciudad de MÃ©xico,12,Tlalpan,356,El Campo,7,2,5,1,1,0,8,3,5,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,357,Cuatzontle,16,8,8,18,6,12,25,9,16,5,3,2
+9,Ciudad de MÃ©xico,12,Tlalpan,358,El Arcoiris,126,65,61,64,30,34,173,85,88,6,4,2
+9,Ciudad de MÃ©xico,12,Tlalpan,359,Tixtapaltongo (Loma de Ahuayoto),5,3,2,1,1,0,5,3,2,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,360,Rancho Ahuayoto,5,3,2,5,3,2,8,4,4,1,1,0
+9,Ciudad de MÃ©xico,12,Tlalpan,361,Oyametonco,7,4,3,5,3,2,11,6,5,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,373,Ispancolohuia,24,13,11,19,10,9,39,19,20,4,4,0
+9,Ciudad de MÃ©xico,12,Tlalpan,374,Paraje Tlalmenelolpa,54,34,20,32,18,14,83,50,33,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,376,Teteocotla,136,59,77,98,53,45,206,96,110,10,6,4
+9,Ciudad de MÃ©xico,12,Tlalpan,378,Rancho Viejo,40,15,25,3,2,1,38,15,23,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,381,Ololica (Loloigque),103,53,50,23,11,12,104,55,49,4,1,3
+9,Ciudad de MÃ©xico,12,Tlalpan,383,Tepacheras (KilÃ³metro 31),57,30,27,32,12,20,82,36,46,1,1,0
+9,Ciudad de MÃ©xico,12,Tlalpan,390,La Reja,36,16,20,14,6,8,46,20,26,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,391,Popocotla,22,10,12,21,10,11,40,20,20,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,392,Colonia Cuauhtenco (KilÃ³metro 27),30,12,18,13,7,6,39,17,22,1,0,1
+9,Ciudad de MÃ©xico,12,Tlalpan,393,KilÃ³metro 28 Sur,238,122,116,72,38,34,283,145,138,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,394,Paraje Buenavista,106,56,50,54,24,30,138,68,70,2,2,0
+9,Ciudad de MÃ©xico,12,Tlalpan,396,Tezontitla,648,317,331,196,108,88,780,397,383,6,4,2
+9,Ciudad de MÃ©xico,12,Tlalpan,399,Piedra Suelta,138,80,58,103,47,56,214,111,103,5,4,1
+9,Ciudad de MÃ©xico,12,Tlalpan,410,La Soledad,9,3,6,1,0,1,10,3,7,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,416,Tlayelpa,39,22,17,66,30,36,93,48,45,8,3,5
+9,Ciudad de MÃ©xico,12,Tlalpan,418,Cebadillas,34,15,19,20,11,9,36,15,21,12,7,5
+9,Ciudad de MÃ©xico,12,Tlalpan,420,El Salitrillo,26,13,13,14,5,9,37,17,20,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,422,Xoxoctongo,24,10,14,17,10,7,41,20,21,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,423,La Huerta,18,9,9,5,1,4,20,9,11,2,1,1
+9,Ciudad de MÃ©xico,12,Tlalpan,426,Pedregal del Xitle,17,9,8,18,9,9,33,18,15,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,427,Santa Ana,35,12,23,34,13,21,66,24,42,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,429,El Resumidero,109,54,55,63,27,36,160,78,82,4,1,3
+9,Ciudad de MÃ©xico,12,Tlalpan,430,Zamora,7,5,2,3,1,2,8,5,3,1,0,1
+9,Ciudad de MÃ©xico,12,Tlalpan,436,Xililimoco,88,59,29,53,25,28,125,71,54,2,1,1
+9,Ciudad de MÃ©xico,12,Tlalpan,438,Ejido de San Miguel Xicalco,14,5,9,5,3,2,17,7,10,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,439,La Joyita,66,32,34,45,24,21,99,52,47,0,0,0
+9,Ciudad de MÃ©xico,12,Tlalpan,440,Ayopa,60,35,25,31,14,17,82,47,35,4,1,3
+9,Ciudad de MÃ©xico,12,Tlalpan,9998,Localidades de una vivienda,124,57,67,73,25,48,158,69,89,22,6,16
+9,Ciudad de MÃ©xico,12,Tlalpan,9999,Localidades de dos viviendas,89,48,41,30,14,16,122,63,59,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,1,Xochimilco,356026,180635,175391,71456,38828,32628,393254,203999,189255,7714,4049,3665
+9,Ciudad de MÃ©xico,13,Xochimilco,91,Tepemimilco,120,61,59,36,22,14,149,79,70,4,2,2
+9,Ciudad de MÃ©xico,13,Xochimilco,96,Ixotitla,160,79,81,44,20,24,181,85,96,4,2,2
+9,Ciudad de MÃ©xico,13,Xochimilco,111,Paraje Lila (El Ladrillo),27,16,11,3,2,1,28,17,11,2,1,1
+9,Ciudad de MÃ©xico,13,Xochimilco,113,Zacapa,10,8,2,0,0,0,10,8,2,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,118,Barrio San Antonio (Cruz Monte),208,97,111,71,31,40,241,115,126,9,3,6
+9,Ciudad de MÃ©xico,13,Xochimilco,134,AmpliaciÃ³n Chalmita,438,227,211,171,91,80,550,289,261,14,8,6
+9,Ciudad de MÃ©xico,13,Xochimilco,136,Tepexomulco,459,224,235,94,56,38,508,257,251,7,4,3
+9,Ciudad de MÃ©xico,13,Xochimilco,137,Tlachiultepec de Ahuayucan (Las Malvinas),226,119,107,43,24,19,247,131,116,10,4,6
+9,Ciudad de MÃ©xico,13,Xochimilco,138,Tepetitla (Tlacoxpan),64,33,31,38,18,20,94,47,47,4,2,2
+9,Ciudad de MÃ©xico,13,Xochimilco,139,Tlacualleli (El Calvario),70,38,32,21,11,10,82,43,39,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,140,Tlaltepetla (Tehuistitla),93,47,46,53,31,22,135,73,62,6,3,3
+9,Ciudad de MÃ©xico,13,Xochimilco,143,Tlalatlaco,81,36,45,24,12,12,101,45,56,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,146,Tlatzala (Cuayuca),142,67,75,65,35,30,185,88,97,3,3,0
+9,Ciudad de MÃ©xico,13,Xochimilco,151,Tepuente,34,15,19,12,7,5,45,21,24,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,157,Tipipili,434,215,219,273,138,135,615,305,310,28,17,11
+9,Ciudad de MÃ©xico,13,Xochimilco,160,Tochuca (San Salvador),266,119,147,103,50,53,349,162,187,6,1,5
+9,Ciudad de MÃ©xico,13,Xochimilco,162,Pepelaxtla,250,119,131,93,49,44,297,143,154,18,13,5
+9,Ciudad de MÃ©xico,13,Xochimilco,163,Tecacalango,176,92,84,31,14,17,192,98,94,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,164,Tzompole,27,13,14,12,6,6,36,16,20,1,1,0
+9,Ciudad de MÃ©xico,13,Xochimilco,165,Cacalco (Tepextenco),13,6,7,5,2,3,18,8,10,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,169,Apatlaco,69,36,33,26,11,15,87,45,42,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,172,Paraje de la CiÃ©nega,38,17,21,9,4,5,40,19,21,3,1,2
+9,Ciudad de MÃ©xico,13,Xochimilco,178,Tlapizatil (Puente de Urrutia),128,60,68,47,25,22,155,78,77,7,4,3
+9,Ciudad de MÃ©xico,13,Xochimilco,180,Tepexomulco las Rocas,42,19,23,11,6,5,50,25,25,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,181,Ocotitla Tepachuxiac,162,67,95,107,59,48,243,111,132,6,3,3
+9,Ciudad de MÃ©xico,13,Xochimilco,184,Atotle,257,128,129,71,42,29,304,157,147,9,5,4
+9,Ciudad de MÃ©xico,13,Xochimilco,185,Los Tejocotes,26,14,12,5,3,2,30,17,13,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,187,Tepepatlaxtle,117,61,56,45,25,20,157,83,74,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,190,Tixculco,31,12,19,11,7,4,36,14,22,5,4,1
+9,Ciudad de MÃ©xico,13,Xochimilco,191,Tecoexcontitla,188,92,96,71,45,26,229,121,108,14,8,6
+9,Ciudad de MÃ©xico,13,Xochimilco,193,El Potrero (Bosques de la Paz),29,16,13,9,4,5,32,16,16,3,3,0
+9,Ciudad de MÃ©xico,13,Xochimilco,195,Paraje Tepanyecac,47,15,32,11,7,4,56,22,34,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,196,Tepepula,29,12,17,19,9,10,45,18,27,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,197,La Angostura,21,9,12,0,0,0,21,9,12,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,198,Sihuatlixpa,19,10,9,6,3,3,23,13,10,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,201,Cuatixi,42,19,23,11,5,6,47,23,24,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,202,Paraje Zacapa,527,269,258,335,168,167,743,367,376,52,31,21
+9,Ciudad de MÃ©xico,13,Xochimilco,203,Santa Catarina (Piedra Blanca),49,24,25,5,2,3,50,23,27,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,204,Huepaltepec,42,21,21,13,6,7,51,26,25,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,205,Tecuanatla (Arenal Papanco),105,45,60,32,18,14,131,60,71,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,206,Tepepecalachico (Inopilco),11,4,7,8,4,4,16,7,9,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,209,Tepeclite,24,11,13,16,6,10,39,17,22,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,210,Acalipa,28,12,16,1,1,0,28,13,15,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,213,AmpliaciÃ³n Bugambilias (Nauhtecpan),96,45,51,30,17,13,124,63,61,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,214,Tepeyecac (El Arenal),106,52,54,33,17,16,132,64,68,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,215,Tepexomulco (KilÃ³metro 27.8),8,4,4,4,2,2,10,6,4,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,218,Ixcuicuilco,30,15,15,13,7,6,40,20,20,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,224,CorralÃ³n PolicÃ­a Federal de Caminos,10,5,5,4,0,4,12,4,8,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,226,Cocopalcuautla,58,30,28,13,4,9,66,32,34,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,231,Tecanco,220,108,112,135,80,55,306,160,146,19,10,9
+9,Ciudad de MÃ©xico,13,Xochimilco,232,Atlaxco,74,37,37,49,26,23,110,54,56,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,234,Barrio Nochicala,159,87,72,20,10,10,171,92,79,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,236,Camino Real a San Pedro,116,61,55,34,20,14,129,71,58,4,3,1
+9,Ciudad de MÃ©xico,13,Xochimilco,237,El Cedral,24,11,13,4,2,2,27,13,14,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,238,La Espejera,35,14,21,4,3,1,35,16,19,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,239,Ahuatitla (Texcopaxuli),190,88,102,42,20,22,203,95,108,7,3,4
+9,Ciudad de MÃ©xico,13,Xochimilco,242,Atenco (Tlaquilpa),28,14,14,19,7,12,41,19,22,4,0,4
+9,Ciudad de MÃ©xico,13,Xochimilco,243,Naxayopa,182,91,91,45,24,21,200,98,102,2,2,0
+9,Ciudad de MÃ©xico,13,Xochimilco,244,Coapantitla,48,27,21,12,2,10,48,24,24,6,0,6
+9,Ciudad de MÃ©xico,13,Xochimilco,246,Francisco Villa (Tepejoyuca),12,3,9,15,5,10,26,7,19,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,249,Chililico,79,38,41,34,19,15,99,48,51,3,1,2
+9,Ciudad de MÃ©xico,13,Xochimilco,251,Camino al PanteÃ³n (Las Cruces),40,20,20,14,5,9,47,23,24,4,2,2
+9,Ciudad de MÃ©xico,13,Xochimilco,252,Texopantitla (Chocolines),135,75,60,47,25,22,164,92,72,8,4,4
+9,Ciudad de MÃ©xico,13,Xochimilco,253,Ilimunxutitla,56,32,24,15,8,7,69,39,30,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,257,Los Pinos (Tecacahuaco),206,97,109,128,59,69,282,129,153,29,17,12
+9,Ciudad de MÃ©xico,13,Xochimilco,258,Temamatla,93,46,47,75,34,41,157,75,82,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,261,Milahuaytitla,28,12,16,8,5,3,34,16,18,1,1,0
+9,Ciudad de MÃ©xico,13,Xochimilco,262,Nochicala (Pajaritos),35,18,17,9,4,5,40,22,18,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,263,San Juan Diego (Matlacuaitla),49,30,19,13,9,4,57,37,20,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,264,Paraje Tlahuiteco,22,10,12,3,2,1,23,11,12,1,1,0
+9,Ciudad de MÃ©xico,13,Xochimilco,265,Moyocalco,128,71,57,50,27,23,163,84,79,9,5,4
+9,Ciudad de MÃ©xico,13,Xochimilco,266,Cuahuticultitla,68,36,32,66,34,32,125,65,60,1,1,0
+9,Ciudad de MÃ©xico,13,Xochimilco,267,Tizilingo,132,60,72,93,46,47,194,95,99,17,7,10
+9,Ciudad de MÃ©xico,13,Xochimilco,269,Bosques de la Paz,111,55,56,90,48,42,180,92,88,8,5,3
+9,Ciudad de MÃ©xico,13,Xochimilco,270,Contlalco,57,34,23,20,12,8,69,39,30,3,1,2
+9,Ciudad de MÃ©xico,13,Xochimilco,271,Tlalmelaca,56,22,34,60,27,33,104,44,60,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,273,Zacazontlipac,412,204,208,162,87,75,534,272,262,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,274,Tepetlatzinco,8,4,4,4,0,4,12,4,8,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,275,El CorazÃ³n,26,10,16,16,8,8,38,17,21,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,276,Ocoxochoca,25,10,15,12,8,4,36,18,18,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,277,Texcalatlaco,22,7,15,10,4,6,24,9,15,5,1,4
+9,Ciudad de MÃ©xico,13,Xochimilco,278,Azizicantitla,72,33,39,23,16,7,91,47,44,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,281,Ahuapixititla,22,8,14,3,1,2,22,9,13,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,282,El Corral,4,1,3,2,1,1,5,1,4,1,1,0
+9,Ciudad de MÃ©xico,13,Xochimilco,283,Axomulco,16,8,8,31,12,19,41,19,22,6,1,5
+9,Ciudad de MÃ©xico,13,Xochimilco,284,Oquetzalpa,59,34,25,12,8,4,68,39,29,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,285,Texcalpa,22,12,10,23,11,12,40,20,20,1,1,0
+9,Ciudad de MÃ©xico,13,Xochimilco,286,Acapa,9,5,4,0,0,0,9,5,4,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,287,Ototzingo (Acuario),19,7,12,14,9,5,25,12,13,6,4,2
+9,Ciudad de MÃ©xico,13,Xochimilco,289,Zacatongo,30,11,19,15,9,6,41,19,22,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,290,Ampliacion Tlapanoya Baja,38,19,19,22,10,12,48,24,24,4,1,3
+9,Ciudad de MÃ©xico,13,Xochimilco,291,AmpliaciÃ³n San Bartolo,30,11,19,44,23,21,69,32,37,2,1,1
+9,Ciudad de MÃ©xico,13,Xochimilco,292,AmpliaciÃ³n San MartÃ­n Caballero,10,5,5,11,6,5,17,10,7,3,1,2
+9,Ciudad de MÃ©xico,13,Xochimilco,293,Techachalictic,13,6,7,3,1,2,14,6,8,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,294,Las Cubetas,18,8,10,9,4,5,22,10,12,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,295,San SebastiÃ¡n,11,6,5,16,8,8,25,13,12,0,0,0
+9,Ciudad de MÃ©xico,13,Xochimilco,9998,Localidades de una vivienda,7,2,5,5,2,3,10,4,6,1,0,1
+9,Ciudad de MÃ©xico,13,Xochimilco,9999,Localidades de dos viviendas,30,16,14,23,9,14,43,18,25,8,5,3
+9,Ciudad de MÃ©xico,14,Benito JuÃ¡rez,1,Benito JuÃ¡rez,327780,172701,155079,88103,49827,38276,381588,205125,176463,26615,13919,12696
+9,Ciudad de MÃ©xico,15,CuauhtÃ©moc,1,CuauhtÃ©moc,418156,215857,202299,110598,60987,49611,480647,252552,228095,28254,14236,14018
+9,Ciudad de MÃ©xico,16,Miguel Hidalgo,1,Miguel Hidalgo,302176,157073,145103,81931,46969,34962,348955,185633,163322,27251,14647,12604
+9,Ciudad de MÃ©xico,17,Venustiano Carranza,1,Venustiano Carranza,370460,192506,177954,70332,39706,30626,403680,213619,190061,15100,7719,7381
